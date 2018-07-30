@@ -16,3 +16,8 @@ Lists the development Idea conceived with date
   - Non tech: shorthand;
   - Solution: unwrapping and wrapping with an algorithm.
   - Needs another form to represent English text (for now) that'll save space both on paper or storage mechanism.
+  
+## Proof of concept
+
+- Immutable array in PHP (May need to code in C?)
+- Functional Programming in PHP (may need to code in C?)
