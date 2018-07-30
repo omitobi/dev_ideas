@@ -6,7 +6,7 @@ Lists the development Idea conceived with date
     https://blog.scottlogic.com/2017/05/22/gifbot-github-integration.html
 
 ## Less Dev
-- **Language Wrapper**: Write English is the minimized form to save space used, e.g Img-h=me represents I am going home. Why?
+- **Language Wrapper**: Write English in the minimized form to save space used, e.g Img-h=me represents I am going home. Why?
   - To save space used in writing (use case, if bible was on computers, would it exist today and still be valid?)
   - To preserve paper writings that should stay hundreds of years without Internet cloud storage
   - Needs to develop an **algorithm** that can restructure text string back to normal english, or use dictionary such as with Lemmatization, stopwords, or vectors in Text processing (or NLP)
