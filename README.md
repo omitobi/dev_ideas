@@ -1,7 +1,7 @@
 # dev_ideas
 Lists the development Idea conceived with date
 
-- Rethink how Mysql migrations work (using Laravel migrations as case study)
+- Rethink how SQL database table migrations work (using Laravel migrations as case study)
 
 ## Github Bot
 - add links of issues or repo (starred) to your list in a specific repo's Readme file and group them [13-07-2018] :question:
