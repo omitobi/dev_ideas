@@ -23,4 +23,5 @@ Lists the development Idea conceived with date
 
 - Immutable array in PHP (May need to code in C?)
 - Functional Programming in PHP (may need to code in C?)
+    > See: https://code.tutsplus.com/tutorials/functional-programming-in-php--net-35043 and https://www.google.ee/search?q=functional+programming+with+php&oq=functional+programming+with+php
 - Pipe functions `2 | sum` where `sum` is a function that takes value 2 as first parameter
