@@ -1,6 +1,7 @@
 # dev_ideas
 Lists the development Idea conceived with date
 
+- Develop my professional portfolio website (with Progressive WebAPP, Vue, Material design {maybe with Laravel/Lumen})
 - Rethink how SQL database table migrations work (using Laravel migrations as case study)
 - UI that can be dropped into any PHP (especially Laravel) project for managing Watson conversation WorkSpace without logging in into Watson Assistance Console: see, https://www.ibm.com/watson/developercloud/conversation/api/v1/curl.html?curl
 
