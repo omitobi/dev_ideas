@@ -4,6 +4,8 @@ Lists the development Idea conceived with date
 - Develop my professional portfolio website (with Progressive WebAPP, Vue, Material design {maybe with Laravel/Lumen})
 - Rethink how SQL database table migrations work (using Laravel migrations as case study)
 - UI that can be dropped into any PHP (especially Laravel) project for managing Watson conversation WorkSpace without logging in into Watson Assistance Console: see, https://www.ibm.com/watson/developercloud/conversation/api/v1/curl.html?curl
+- Laravel: Migration version control to have a single migration file with create method compiled from each table regardless of the total number of migrations files already created.
+- Laravel: Get config value object oriented way, thatis using class method instead of string keys.
 
 ## Github Bot
 - add links of issues or repo (starred) to your list in a specific repo's Readme file and group them [13-07-2018] :question:
